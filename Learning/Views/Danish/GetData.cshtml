@@ -1,0 +1,37 @@
+﻿@model IEnumerable<WenRepository.Entity.TblUser>
+
+    @{
+        if(Model.Count()>0)
+        {
+
+            <div>
+<table>
+                <caption>New York City Marathon Results 2013</caption>
+<thead>
+<tr>
+<th>
+
+
+</th>
+
+</tr>
+</thead>
+
+<tbody>
+@foreach(var ab in Model)
+{
+
+    <tr>
+    <td>
+    @ab.Name
+    
+    </td>
+    
+    </tr>
+}
+
+</tbody>
+</table>
+            </div>
+        }
+    }

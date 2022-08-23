@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "AzureWebJobsStorage"
+    },
+    "secrets1": {
+      "type": "secrets"
+    },
+    "storage2": {
+      "type": "storage",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=learningqueuestorage;AccountKey=yaOw85i+gvP6+V+Vx4MogHkoZbYrSO4zpFCIoEeaaKflATo0pJ1Vd:sB3gDTXvboa4id2zxG+q8l+AStuEaOBw==;EndpointSuffix=core.windows.net",
+      "dynamicId": null
+    }
+  }
+}

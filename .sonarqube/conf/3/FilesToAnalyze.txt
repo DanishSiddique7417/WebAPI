@@ -1,0 +1,11 @@
+﻿C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\Controllers\MyTestController.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\Controllers\WeatherForecastController.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\Program.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\WeatherForecast.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.GlobalUsings.g.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\appsettings.Development.json
+C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\appsettings.json
+C:\Users\danish.siddique\source\repos\WebAPI\WebAPI\Properties\launchSettings.json

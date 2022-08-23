@@ -1,0 +1,10 @@
+﻿C:\Users\danish.siddique\source\repos\WebAPI\WenRepository\ApplicationContext.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WenRepository\Class1.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WenRepository\Entity\Employee.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WenRepository\Entity\MasterTable.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WenRepository\Entity\Product.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WenRepository\Entity\TblUser.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WenRepository\Entity\Testing.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WenRepository\Migrations\20220815144258_add_tables.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WenRepository\Migrations\20220815144258_add_tables.Designer.cs
+C:\Users\danish.siddique\source\repos\WebAPI\WenRepository\Migrations\ApplicationContextModelSnapshot.cs

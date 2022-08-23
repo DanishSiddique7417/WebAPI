@@ -1,0 +1,12 @@
+﻿C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\Function1.cs
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\GetDate.cs
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\obj\Debug\net6.0\MyFunction2_Azure.AssemblyInfo.cs
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\.gitignore
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\host.json
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\local.settings.json
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\Properties\launchSettings.json
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\Properties\PublishProfiles\MyFristAzureFunction20220813234051 - Zip Deploy.pubxml
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\Properties\serviceDependencies.json
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\Properties\serviceDependencies.local.json
+C:\Users\danish.siddique\source\repos\WebAPI\MyFunction2_Azure\Properties\ServiceDependencies\MyFristAzureFunction20220813234051 - Zip Deploy\profile.arm.json
